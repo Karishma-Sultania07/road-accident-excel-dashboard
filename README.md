@@ -94,10 +94,8 @@ An interactive Excel dashboard project analyzing road accident data after cleani
 - **Python-Data-Cleaning/** → Python notebook & cleaned data excel file
 - **Excel Dashboard/** → Final interactive Excel file
 - **Dashboard Snapshots/** → Dashboard images
+
   
+## View Dashboard Online
 
-## ⚠️ Important Note
-To view the dashboard properly:
-
-- Download the file `Road_Accident_Dashboard.xlsx` 
-- **Open it in Microsoft Excel Desktop App (NOT Excel Online)**, as Excel Online may distort the layout or visuals.
+To view the dashboard in Excel Online without downloading any file, [click this OneDrive link](https://1drv.ms/x/c/1900327c1353777b/EdpxCAmZullMmce0DEsPJRsBDIFsLMPi63joU1jq5PodTA).
