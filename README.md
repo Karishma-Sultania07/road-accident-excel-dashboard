@@ -10,7 +10,7 @@ An interactive Excel dashboard project analyzing road accident data after cleani
 
 ## Dataset
 
-- **Source**: [Kaggle – Road Accident Dataset](https://www.kaggle.com/datasets/xavierberge/road-accident-dataset)  
+- **Source**: [Kaggle – Road Accident Dataset](https://www.kaggle.com/datasets/abdulmannann/road-accidents-csv)  
 - **Instructions**:  
   - Download `Road_Accident_Data.xlsx` from the Kaggle link above  
   - Place it in the same directory as the Jupyter Notebook before running  
