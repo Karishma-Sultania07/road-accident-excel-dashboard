@@ -1,5 +1,5 @@
 # Road Accident Excel Dashboard
-An interactive Excel dashboard project analyzing road accident data after cleaning and sampling data using Python. The dashboard enables users to explore accident patterns through dynamic visualizations and filters.
+An interactive Excel dashboard project analyzing road accident data after cleaning and sampling data using Python and Pandas. The dashboard enables users to explore accident patterns through dynamic visualizations and filters.
 
 
 ## Objective
